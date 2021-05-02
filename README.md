@@ -1,3 +1,3 @@
 # idengshuai.github.io
-This repository is for Gringotts.
-Have a look at https://www.gringotts.vip.
+This repository is a GitHub Page.
+Have a look at [our website](https://www.gringotts.vip/).
